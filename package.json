@@ -1,0 +1,23 @@
+{
+  "name": "cli-playground",
+  "version": "1.0.0",
+  "description": "cli playground",
+  "main": "./coffee-shop/index.js",
+  "bin": {
+    "coffee-shop": "lib/coffee-shop/index.js"
+  },
+  "scripts": {
+    "install-local":"npm install -g ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^8.0.0",
+    "inquirer": "^8.1.1",
+    "lodash": "^4.17.21",
+    "pad": "^3.2.0"
+  }
+}
