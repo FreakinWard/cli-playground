@@ -47,3 +47,6 @@ Macchiato / $3.50
   Macchiato ($3.50) 
 
 ```
+
+# References
+[Making CLI app with ease using commander.js and Inquirer.js](https://medium.com/jspoint/making-cli-app-with-ease-using-commander-js-and-inquirer-js-f3bbd52977ac)
