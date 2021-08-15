@@ -2,7 +2,7 @@
   "name": "cli-playground",
   "version": "1.0.0",
   "description": "cli playground",
-  "main": "./coffee-shop/index.js",
+  "main": "lib/coffee-shop/index.js",
   "bin": {
     "coffee-shop": "lib/coffee-shop/index.js"
   },

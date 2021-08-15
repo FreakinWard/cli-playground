@@ -4,7 +4,7 @@ cli-playground
 # Getting Started
 1. clone
 1. run `npm install`
-1. run `npm run setup`
+1. run `node . -h`
 
 
 # Scripts
@@ -17,14 +17,14 @@ Options:
   -h, --help      display help for command
 
 Commands:
-  list|ls         List coffee menu
+  menu|m          Show coffee menu
   order|o         Order a coffee
   help [command]  display help for command
 
 ```
 
 ```shell
-> coffee-shop ls
+> coffee-shop m
 
 COFFEE MENU
 ------------------
